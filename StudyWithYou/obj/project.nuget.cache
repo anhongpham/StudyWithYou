@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ujq4WwUVoVQbjY2aLD44+RxsVfqgEXO431PcdGzqOqYqX3iwy6RIe4Oc6lJqAYRBeyLBIKrWKUiQM4SqpAAisw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anhon\\source\\repos\\StudyWithYou\\StudyWithYou\\StudyWithYou.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anhon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
